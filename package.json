@@ -1,0 +1,8 @@
+{
+  "name": "harpworkspaces",
+  "private": true,
+  "workspaces": {
+    "packages": ["packages/*"],
+    "nohoist": ["**/react-native", "**/react-native/**", "**/expo", "**/expo/**"]
+  }
+}

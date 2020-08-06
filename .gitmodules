@@ -1,0 +1,3 @@
+[submodule "packages/harpnative"]
+	path = packages/harpnative
+	url = https://github.com/js-jslog/harpnative.git
